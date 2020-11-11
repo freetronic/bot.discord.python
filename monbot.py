@@ -2,7 +2,7 @@
 #coding:utf8
 ######################################### PARAMETRES A PERSONALISER ################
 bot   = "KICHOU" # nom de votre bot
-jouea = "Python discord.py" # activité du bot
+jouea = "Python discord" # activité du bot
 token = "mettre ici le tocken de votre bot" #token du boot
 ####################################################################################
 
