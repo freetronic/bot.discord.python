@@ -3,7 +3,7 @@
 ######################################### PARAMETRES A PERSONALISER ################
 bot   = "KICHOU" # nom de votre bot
 jouea = "Python discord" # activité du bot
-token = "mettre ici le tocken de votre bot" #token du boot
+from token import token  #token du boot
 ####################################################################################
 
 import discord #attention a ne pas nomer ce fichier discord.py
