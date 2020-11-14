@@ -12,7 +12,7 @@ une machine linux,window,mac
 
 Python 3.6 ou supérieur
 
-installer la librairie discord.py
+installer la librairie discord.py dans python
 
 signes spéciaux utiliser dans un message
 
