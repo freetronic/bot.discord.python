@@ -1,6 +1,6 @@
 # bot.discord.python
 
-Rédaction en cours ...
+                                            Rédaction en cours ...
 
 Prérequis :
 
